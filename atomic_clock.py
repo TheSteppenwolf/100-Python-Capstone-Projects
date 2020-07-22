@@ -1,10 +1,8 @@
 '''
-Program that retrieves the time from the atomic clock using web scrapping
-techniques and python.
+This program retrieves the time from an atomic clock using web scrapping techniques and python.
 
 Important note: This program does not have any bad intention on web scrapping 
-https://watches.uhrzeit.org/atomic-clock.php, it just has been made for 
-learning purposes.
+https://watches.uhrzeit.org/atomic-clock.php, it just has been made for learning purposes.
 '''
 from tkinter import *
 import requests
@@ -18,7 +16,7 @@ window.title("Py Atomic Clock")
 txtbox = Entry(window, font="Calibri 20")
 txtbox.grid(row=0, column=1, columnspan=2, padx=5, pady=5)
 
-# Functions
+# Function that retrieves the hour from the internet.
 def get_hour():
     # We retrieve all the info from the main page where is located the atomic clock
     re = requests.get("https://watches.uhrzeit.org/atomic-clock.php")
