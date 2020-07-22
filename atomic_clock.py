@@ -23,6 +23,8 @@ def get_hour():
     soup = bs4.BeautifulSoup(re.text, "lxml")
     # We retrieve the hour.
     atomic_time = soup.select(".anzeige.zeit")[0]
+    # In case there's already text in the textbox, we clear it.
+    txtbox.delete(0,END)
     # We put it in the textbox.
     txtbox.insert(0,atomic_time.getText())
 
