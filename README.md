@@ -7,4 +7,4 @@ General overview:
 #### Get Atomic Time from Internet Clock:
 This program will get the true atomic time from an atomic time clock on the Internet. Use any one of the atomic clocks returned by a simple Google search.
 ##### Link to the project section: 
-[linky](src/README.md#python_clock.py)
+[Atomic Clock](src/README.md#atomic_clock.py)
