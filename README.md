@@ -1,2 +1,10 @@
 # 100-Python-Capstone-Projects
-This repository has 100 different types of projects made on python.
+This repository will have 100 different types of projects made on python.
+The projects are organized within certain topics, in there you can find the name of the project and what it is about!
+
+General overview:
+### Web
+#### Get Atomic Time from Internet Clock:
+This program will get the true atomic time from an atomic time clock on the Internet. Use any one of the atomic clocks returned by a simple Google search.
+##### Link to the project section: 
+[linky](src/README.md#python_clock.py)
