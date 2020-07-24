@@ -2,6 +2,9 @@
 This repository will have 100 different types of projects made on python.
 The projects are organized within certain topics, in there you can find the name of the project and what it is about!
 
+## Preliminar Note: 
+The projects are being developing and will periodically be uploaded into the repository.
+
 ## Table of contents:
 ### Web
 #### Get Atomic Time from Internet Clock:
