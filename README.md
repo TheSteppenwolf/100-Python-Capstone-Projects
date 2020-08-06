@@ -10,7 +10,7 @@ The projects are being developing and will periodically be uploaded into the rep
 #### Fizz Buzz:
 Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
 ##### Link to the project section:
-[fizz buzz](https://github.com/TheSteppenwolf/100-Python-Capstone-Projects/blob/master/fizzbuzz.ipynb)
+[Fizz Buzz](https://github.com/TheSteppenwolf/100-Python-Capstone-Projects/blob/master/fizzbuzz.ipynb)
 ### Web
 #### Get Atomic Time from Internet Clock:
 This program will get the true atomic time from an atomic time clock on the Internet. Use any one of the atomic clocks returned by a simple Google search.
