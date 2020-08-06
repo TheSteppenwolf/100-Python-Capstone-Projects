@@ -19,6 +19,10 @@ Enter a string and the program will reverse it.
 Recreate Pig Latin which is a game of alterations played on the English language. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay)
 #### Link to the project section:
 [Pig Latin](https://github.com/TheSteppenwolf/100-Python-Capstone-Projects/blob/master/pig_latin.ipynb)
+#### Count Vowels:
+Enter a string, the program will analyze the number of repetition of each vowels as well as the total vowels found.
+##### Link to the project section:
+[Count Vowels](https://github.com/TheSteppenwolf/100-Python-Capstone-Projects/blob/master/count_vowels.ipynb)
 
 <hr>
 
