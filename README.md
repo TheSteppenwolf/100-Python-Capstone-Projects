@@ -23,6 +23,10 @@ Recreate Pig Latin which is a game of alterations played on the English language
 Enter a string, the program will analyze the number of repetition of each vowels as well as the total vowels found.
 ##### Link to the project section:
 [Count Vowels](https://github.com/TheSteppenwolf/100-Python-Capstone-Projects/blob/master/count_vowels.ipynb)
+#### Check if Palindrome:
+Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
+##### Link to the project section:
+[Check Palindrome](https://github.com/TheSteppenwolf/100-Python-Capstone-Projects/blob/master/check_palindrome.ipynb)
 
 <hr>
 
