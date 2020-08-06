@@ -11,6 +11,9 @@ The projects are being developing and will periodically be uploaded into the rep
 Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
 ##### Link to the project section:
 [Fizz Buzz](https://github.com/TheSteppenwolf/100-Python-Capstone-Projects/blob/master/fizzbuzz.ipynb)
+
+<hr style="width:50%">
+
 #### Reverse a string:
 Enter a string and the program will reverse it.
 ##### Link to the project section:
