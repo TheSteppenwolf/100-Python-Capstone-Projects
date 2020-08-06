@@ -12,8 +12,6 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 ##### Link to the project section:
 [Fizz Buzz](https://github.com/TheSteppenwolf/100-Python-Capstone-Projects/blob/master/fizzbuzz.ipynb)
 
-<hr style="width:50%">
-
 #### Reverse a string:
 Enter a string and the program will reverse it.
 ##### Link to the project section:
