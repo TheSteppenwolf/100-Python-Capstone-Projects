@@ -27,6 +27,10 @@ Enter a string, the program will analyze the number of repetition of each vowels
 Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
 ##### Link to the project section:
 [Check Palindrome](https://github.com/TheSteppenwolf/100-Python-Capstone-Projects/blob/master/check_palindrome.ipynb)
+#### Count Words:
+Counts the number of individual words in a string reading from a text file and generate a summary.
+##### Link to the project section:
+[Count Words](https://github.com/TheSteppenwolf/100-Python-Capstone-Projects/blob/master/count_words.ipynb)
 
 <hr>
 
