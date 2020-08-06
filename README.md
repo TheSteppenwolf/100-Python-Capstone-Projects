@@ -15,6 +15,9 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 Enter a string and the program will reverse it.
 ##### Link to the project section:
 [Reverse a string](https://github.com/TheSteppenwolf/100-Python-Capstone-Projects/blob/master/reverse_string.ipynb)
+
+<hr>
+
 ### Web
 #### Get Atomic Time from Internet Clock:
 This program will get the true atomic time from an atomic time clock on the Internet. Use any one of the atomic clocks returned by a simple Google search.
