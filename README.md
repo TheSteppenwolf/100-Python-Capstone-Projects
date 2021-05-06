@@ -10,9 +10,8 @@ You can contact me if needed at: sebastiantamayop@hotmail.com
 The projects are being developing and will periodically be uploaded into the repository.
 
 ## Projects:
-<hr>
 
-### Numbers Section:
+### Projects with numbers:
 Here you will find all the projects related entirely to numbers.
 
 #### Find Pi to the Nth digit
@@ -20,3 +19,6 @@ Enter a number and have the program generate π (pi) up to that many decimal pla
 
 - Web site: [Find Pi to the Nth digit](https://thesteppenwolf.github.io/100-Python-Capstone-Projects/Numbers/Find%20PI%20to%20the%20Nth%20Digit/Find%20PI%20to%20the%20Nth%20Digit.html)
 - Jupyter Notebook: [Find Pi to the Nth digit](https://github.com/TheSteppenwolf/100-Python-Capstone-Projects/blob/master/Numbers/Find%20PI%20to%20the%20Nth%20Digit/Find%20PI%20to%20the%20Nth%20Digit.ipynb)
+
+<hr>
+
