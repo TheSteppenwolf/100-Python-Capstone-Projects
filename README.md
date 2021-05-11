@@ -11,7 +11,18 @@ The projects are being developing and will periodically be uploaded into the rep
 ## Projects:
 
 ### [1. Projects with numbers](https://github.com/TheSteppenwolf/100-Python-Capstone-Projects/blob/master/Numbers/Table%20of%20contents.md)
-
+### [2. Classic Algorithms]()
+### [3. Graphs]()
+### [4. Data Structures]()
+### [5. Projects with texts]()
+### [6. Networking]()
+### [7. Classes]()
+### [8. Threading]()
+### [9. Web]()
+### [10. Files]()
+### [11. Databases]()
+### [12. Graphics and Multimedia]()
+### [13. Security]()
 
 
 <hr>
